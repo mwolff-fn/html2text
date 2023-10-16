@@ -1,6 +1,6 @@
 {
   "name": "voku/html2text",
-  "description": "Only a Fork of -> html2text: Converts HTML to formatted plain text",
+  "description": "A Fork of -> html2text: Converts HTML to formatted plain text, bumping dependency versions",
   "keywords": [
     "html-to-text",
     "HTMLToText",
@@ -13,7 +13,7 @@
   "license": "GPL-2.0-or-later",
   "require": {
     "php": ">=7.0.0",
-    "voku/portable-utf8": "~5.4"
+    "voku/portable-utf8": "^5.4|^6.0"
   },
   "require-dev": {
     "phpunit/phpunit": "~6.0 || ~7.0"
